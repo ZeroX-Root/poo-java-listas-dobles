@@ -66,5 +66,3 @@ MiProyecto/
 
 - El scaffold es ideal para estudiantes y entornos académicos.
 - Puedes modificar las clases generadas según tus necesidades.
-
-```
